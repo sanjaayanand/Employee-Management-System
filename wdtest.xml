@@ -10,7 +10,7 @@ xsi:noNamespaceSchemaLocation="newXmlSchema.xsd">
  <salary>55000</salary>
  <email>sam@gmail.com</email>
  <mobileNumber>9654213252</mobileNumber>
- <Designation>MCA</Designation>
+ <Designation>mca</Designation>
  
  </Employee>
 
@@ -21,7 +21,7 @@ xsi:noNamespaceSchemaLocation="newXmlSchema.xsd">
  <salary>100000</salary>
  <email>mala@gmail.com</email>
  <mobileNumber>965412582</mobileNumber>
- <Designation>MCA</Designation>
+ <Designation>mca</Designation>
  
  </Employee>
 
@@ -32,7 +32,7 @@ xsi:noNamespaceSchemaLocation="newXmlSchema.xsd">
  <salary>56000</salary>
  <email>bala@gmail.com</email>
  <mobileNumber>9548754122</mobileNumber>
- <Designation>MCA</Designation>
+ <Designation>mca</Designation>
  
  </Employee>
 
@@ -43,7 +43,7 @@ xsi:noNamespaceSchemaLocation="newXmlSchema.xsd">
  <salary>90000</salary>
  <email>guru@gmail.com</email>
  <mobileNumber>9874561230</mobileNumber>
- <Designation>MCA</Designation>
+ <Designation>mca</Designation>
  
  </Employee>
 
@@ -54,7 +54,7 @@ xsi:noNamespaceSchemaLocation="newXmlSchema.xsd">
  <salary>40000</salary>
  <email>aniq@gmail.com</email>
  <mobileNumber>9784512421</mobileNumber>
- <designation>MCA</designation>
+ <designation>mca</designation>
  
  </Employee>
 </company>
